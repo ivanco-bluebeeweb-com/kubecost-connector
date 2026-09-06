@@ -1,3 +1,8 @@
-# Kubecost Connector - UI_COMPONENT_PLAN.md
+# Kubecost Connector — UI Component Plan
 
-Standard documentation for Kubecost Connector in Imperal Cloud.
+**Compliance:** UI_INTERFACE_STANDARD.md
+
+## Интерфейс
+- **Левый сайдбар:** Форма подключения на всю ширину контейнера, все инпуты с лейблами и контекстными плейсхолдерами.
+- **Центральная зона:** Карточки статуса подключения, таблица сущностей (распределение затрат (/allocation)), журнал операций.
+- **Модальные окна:** Предупреждения и подтверждения для любых деструктивных или модифицирующих действий.
